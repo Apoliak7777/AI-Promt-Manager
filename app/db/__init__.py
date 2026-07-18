@@ -1,0 +1,1 @@
+"""Dátová vrstva — SQLite prístup."""
